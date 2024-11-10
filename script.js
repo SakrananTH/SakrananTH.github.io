@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     const profilePic = document.createElement("div");
     profilePic.className = "profile-pic";
-    profilePic.innerHTML = '<img src="https://www.pinterest.com/pin/1141873680491136858/" alt="รูปภาพ">';
+    profilePic.innerHTML = '<img src="saaa.jpg.jpg" alt="รูปภาพ">';
     leftSection.appendChild(profilePic);
 
     const about = document.createElement("div");
